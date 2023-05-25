@@ -1,2 +1,2 @@
-# Flappy-Bird
+# Platformer
 Boop
